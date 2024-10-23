@@ -1,0 +1,22 @@
+column,description
+Ship Mode,Delivery method for the order
+Category,Product category
+Order ID,Internal Order ID from source system
+Profit,Total profit of the item sold after discount
+Order Date,Date when the customer paid the order
+Sales,Total revenue for the item sold after discount
+Quantity,Number of items in the order
+Segment,Customer segment
+Product ID,Internal Product ID
+Sub-Category,Product sub-category
+Row ID,Unique Row ID
+Ship Date,Date when the order was sent to the customer
+City,City where the customer lives
+Product Name,Name of the product bought by the customer
+Discount,Discount percentage applied during sale
+State/Province,State where the customer lives
+Country/Region,Country where the customer lives
+Customer Name,Full customer name
+Customer ID,Internal customer ID
+Region,Region where the customer lives
+Postal Code, Customer postal code
