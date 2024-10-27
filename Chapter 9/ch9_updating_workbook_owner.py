@@ -2,7 +2,7 @@
 import tableauserverclient as TSC
 import pandas as pd
 
-tableau_auth = TSC.PersonalAccessTokenAuth('tsc','bGdwU1XMTHOK/i2W5rT5Sw==:rpDQf568XiX90vb8HxZfkp3Ii8VtLf6V', site_id='pablodevsite')
+tableau_auth = TSC.PersonalAccessTokenAuth('tsc','my-pat-secret', site_id='my-site-name')
 server = TSC.Server('https://10ax.online.tableau.com', use_server_version=True)
 
 with server.auth.sign_in(tableau_auth):
