@@ -1,5 +1,11 @@
-id,address, region, postcode, locality, country
+id, address, region, postcode, locality, country
 1, 157 Court Avenue, Tennessee, 38103, Memphis, United States
 2, 900 San Vicente Blvd, Texas, 78701, Austin, United States
 3, Avenida Gran Via de Hortaleza 5, Community of Madrid, 28033, Madrid, Spain
 4, 16 Britannia Row, London, N18QE, London, United Kingdom
+5, Via Augusta 15, Barcelona, 08006, Barcelona, Spain
+6, 17 Rue Amélie, Paris, 75007, Paris, France
+7, Via dei Chiavari 42, Rome, 00186, Rome, Italy
+8, 548 San Jacinto Blvd, Texas, 78701, Austin, United States
+9, 698 Island Avenue, California, 92101, San Diego, United States
+10, 3 Crown Place, London, EC2A4EB, London, United Kingdom
