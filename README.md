@@ -1,2 +1,2 @@
-# Advanced-Tableau-Techniques-for-Experienced-Professionals
-Advanced Tableau Techniques for Experienced Professionals
+# Tableau-Cookbook-for-Experienced-Professionals
+Tableau Cookbook for Experienced Professionals
