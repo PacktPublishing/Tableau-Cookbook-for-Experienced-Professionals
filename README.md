@@ -1,3 +1,6 @@
+
+<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
+
 # Tableau Cookbook for Experienced Professionals
 
 <a href="https://www.packtpub.com/en-us/product/tableau-cookbook-for-experienced-professionals-9781835469743"><img src="https://content.packt.com/B24502/cover_image.jpg?version=1743685350" alt="no-image" height="256px" align="right"></a>
