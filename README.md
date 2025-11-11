@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
+
 # Tableau Cookbook for Experienced Professionals
 
 <a href="https://www.packtpub.com/en-us/product/tableau-cookbook-for-experienced-professionals-9781835469743"><img src="https://content.packt.com/B24502/cover_image.jpg?version=1743685350" alt="no-image" height="256px" align="right"></a>
